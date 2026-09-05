@@ -148,7 +148,7 @@ Microphone: AT BP4025
 
 ---
 > ![Nuit4]({% link images/20230728_001701-400x300.jpg %})    
-> Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB"></source></audio>
+> Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB.mp3"></source></audio>
 >[Frégimont Lot-et-Garonne France](https://goo.gl/maps/xbD7diQKR1TmqjJ77)
 >
 > Nuit, Insecte, Vent...
