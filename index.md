@@ -52,8 +52,8 @@ Microphone: Uni
 > Bird1 2/10/2016<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird1.mp3"></source></audio>
 > [Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2)
 >  
-> Oiseaux dans un grand laurier
-> <div style="text-align: right"> Birds in a large laurel tree</div>
+> Oiseaux dans un grand laurier : Étourneau sansonnet...
+> <div style="text-align: right"> Birds in a large laurel tree : Common starling</div>
 >
 > Recorder: Tascam DR-100MKII  
 Microphone: Uni
