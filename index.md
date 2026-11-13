@@ -134,8 +134,6 @@ Microphone: Uni
 Microphone: Uni
 
 --- 
-> ![Forêt Guyane]({% link images/Photo-Guyane-1991-400x265.jpg %})  
-
 > [![Forêt Guyane]({% link images/Photo-Guyane-1991-400x265.jpg %})](images/Photo-Guyane-1991-Scan-Diapo-2.jpg){:target="_blank"}  
 > Bird7 8/1991<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird7.mp3"></source></audio>
 >[Guyane](https://goo.gl/maps/TaqCN3QCJVJb5pdN6){:target="_blank"}
@@ -147,7 +145,7 @@ Microphone: Uni
 Microphone: Sennheiser
 
 --- 
-> ![Le Bech]({% link images/P1130209-Modif-400x300.jpg %})  
+> [![Le Bech]({% link images/P1130209-Modif-400x300.jpg %})](images/P1130209-Modif.jpg){:target="_blank"}  
 > Bird8 24/05/2022<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird8.mp3"></source></audio>
 >[Le Bech - Corrèze - France](https://goo.gl/maps/joqY7NSCHVQf9Jzy9){:target="_blank"}
 >
