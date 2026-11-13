@@ -35,7 +35,7 @@ the more music there is."
 Microphone: Uni
 
 ---
-> ![Hâble d'Ault]({% link images/IMG_7758-400x300.jpg %})  
+> ![Hâble d'Ault]({% link images/IMG_5302-2-400x300.jpg %})  
 > Aqua2  23/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua2.mp3"></source></audio>
 > [Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6)
 >  
