@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-**12 Paysages sonores / Soundscapes**
+<h1 style="font-size: 1.3rem;">12 Paysages sonores / Soundscapes...</h1>
 <br>
 <br>
 <br>
@@ -158,5 +158,5 @@ Microphone: AT BP4025
 Microphone: AT BP4025
 
 --- 
-
+<div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
 page mise à jour 13 11 2026 
