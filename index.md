@@ -69,6 +69,8 @@ Microphone: Uni
 
 ---
 > ![Grand laurier]({% link images/IMG_3002-400x300.jpg %})  
+
+> [![Grand laurier]({% link images/IMG_3002-400x300.jpg %})](images/IMG_3002.JPG){:target="_blank"}  
 > Bird1 2/10/2016<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird1.mp3"></source></audio>
 > [Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2){:target="_blank"}
 >  
