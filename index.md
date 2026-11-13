@@ -25,10 +25,6 @@ the more music there is."
 
 ---
 > [![Les Écharennes]({% link images/IMG_7758-400x300.jpg %})](images/IMG_7758.JPG){:target="_blank"}
-
-
-![Les Écharennes]({% link images/IMG_7758-400x300.jpg %})  
-
 > Aqua1 6/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua1.mp3"></source></audio>
 > [Les Écharennes - Saint Nazaire le Désert - France](https://www.google.fr/maps/@44.568526,5.2760436,113m/data=%213m1%211e3){:target="_blank"}
 >  
