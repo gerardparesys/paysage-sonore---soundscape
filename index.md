@@ -46,7 +46,7 @@ Microphone: Uni
 Microphone:  Audio-Technica BP4025
 
 ---
-> ![Cayeux sur mer]({% link images/IMG_9666-2-400x300.jpg %})  
+> [![Cayeux sur mer]({% link images/IMG_9666-2-400x300.jpg %})](images/IMG_9666-2.jpg){:target="_blank"}  
 > Aqua3   24/5/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua3.mp3"></source></audio>
 > [Cayeux sur mer - France](https://goo.gl/maps/xXXKALoynaGXCM2h6){:target="_blank"}
 >  
