@@ -5,12 +5,11 @@ in_menu: true
 ---
 <h1 style="font-size: 1.3rem;">12 Paysages sonores / Soundscapes...</h1>
 <br>
-<br>
 "Plus on découvre que  
 les bruits du monde extérieur  
 sont musicaux,  
 et plus il y a de musique."  
-[John Cage - Pour les oiseaux](https://www.editionsdelherne.com/publication/pour-les-oiseaux/)
+[John Cage - Pour les oiseaux](https://www.editionsdelherne.com/publication/pour-les-oiseaux/){:target="_blank"}
   
 <div style="text-align: right"> "The more we discover
 <br>
@@ -34,6 +33,17 @@ the more music there is."
 >
 > Recorder: Tascam DR-100MKII  
 Microphone: Uni
+
+---
+> ![Hâble d'Ault]({% link images/IMG_7758-400x300.jpg %})  
+> Aqua2  23/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua2.mp3"></source></audio>
+> [Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6)
+>  
+>  Mer, Galets
+> <div style="text-align: right">  Sea, Pebbles</div>
+>
+> Recorder: Tascam DR-100MKII  
+Microphone:  Audio-Technica BP4025
 
 ---
 > ![Bat]({% link images/IMG_3670-400x300-2.jpg %})    
