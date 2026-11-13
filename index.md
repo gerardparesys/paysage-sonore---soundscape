@@ -6,7 +6,6 @@ in_menu: true
 <h1 style="font-size: 1.3rem;">12 Paysages sonores / Soundscapes...</h1>
 <br>
 <br>
-<br>
 "Plus on découvre que  
 les bruits du monde extérieur  
 sont musicaux,  
@@ -158,5 +157,6 @@ Microphone: AT BP4025
 Microphone: AT BP4025
 
 --- 
+<br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
 page mise à jour 13 11 2026 
