@@ -123,7 +123,7 @@ Microphone: Uni
 Microphone: Uni
 
 ---
-> ![Etang de Bourgneuf - France]({% link images/P1080209-400x300.jpg %})  
+> [![Etang de Bourgneuf - France]({% link images/P1080209-400x300.jpg %})](images/P1080209.JPG){:target="_blank"}  
 > Bird6 21/05/2021<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird6.mp3"></source></audio>
 > [Etang de Bourgneuf - France](https://goo.gl/maps/2wyZPN7hdSGHKnhy8){:target="_blank"}
 >  
