@@ -68,8 +68,6 @@ Microphone:  Uni
 Microphone: Uni
 
 ---
-> ![Grand laurier]({% link images/IMG_3002-400x300.jpg %})  
-
 > [![Grand laurier]({% link images/IMG_3002-400x300.jpg %})](images/IMG_3002.JPG){:target="_blank"}  
 > Bird1 2/10/2016<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird1.mp3"></source></audio>
 > [Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2){:target="_blank"}
@@ -81,9 +79,6 @@ Microphone: Uni
 Microphone: Uni
 
 ---
-> ![Forêt Notre-Dame]({% link images/IMG_2177-400x300.jpg %})  
-
-
 > [![Forêt Notre-Dame]({% link images/IMG_2177-400x300.jpg %})](images/IMG_2177.JPG){:target="_blank"}  
 > Bird2 10/3/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird2.mp3"></source></audio>
 > [Forêt Notre-Dame - France](https://goo.gl/maps/cvfGSmnTaD92){:target="_blank"}
@@ -95,7 +90,7 @@ Microphone: Uni
 Microphone: Uni
 
 ---
-> ![Ochancourt - France]({% link images/20190517_054308-ModifCouleur-400x300.jpg %})  
+> [![Ochancourt - France]({% link images/20190517_054308-ModifCouleur-400x300.jpg %})](images/20190517_054308-ModifCouleur.jpg){:target="_blank"}  
 > Bird3 17/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird3.mp3"></source></audio>
 > [Ochancourt - France](https://maps.app.goo.gl/BCbSXntL89Bp8c5w9){:target="_blank"}
 >  
