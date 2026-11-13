@@ -112,10 +112,7 @@ Microphone: Uni
 Microphone: Uni
 
 ---
-> ![Forêt Notre-Dame - France]({% link images/IMG_2179-400x300.jpg %})  
-
-
-> [![Forêt Notre-Dame - France]({% link images/IMG_2179-400x300.jpg %})](images/img015.jpg){:target="_blank"}  
+> [![Forêt Notre-Dame - France]({% link images/IMG_2179-400x300.jpg %})](images/IMG_2179.JPG){:target="_blank"}  
 > Bird5 10/3/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird5.mp3"></source></audio>
 > [Forêt Notre-Dame - France](https://goo.gl/maps/cvfGSmnTaD92){:target="_blank"}
 >  
