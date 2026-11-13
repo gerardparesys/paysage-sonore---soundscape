@@ -156,7 +156,7 @@ Microphone: Sennheiser
 Microphone: AT BP4025
 
 ---
-> ![Alouette des champs dans le ciel]({% link images/P1250320-400x300.jpg %})  
+> [![Alouette des champs dans le ciel]({% link images/P1250320-400x300.jpg %})](images/P1250320-Modif.jpg){:target="_blank"}  
 > Bird9 29/05/2024 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird9.mp3"></source></audio>
 > [Hâble d'Ault - Somme - France](https://maps.app.goo.gl/a84hDgAQwjg7D6jx7){:target="_blank"}
 >  
