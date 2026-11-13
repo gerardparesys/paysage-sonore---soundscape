@@ -135,6 +135,8 @@ Microphone: Uni
 
 --- 
 > ![Forêt Guyane]({% link images/Photo-Guyane-1991-400x265.jpg %})  
+
+> [![Forêt Guyane]({% link images/Photo-Guyane-1991-400x265.jpg %})](images/Photo-Guyane-1991-Scan-Diapo-2.jpg){:target="_blank"}  
 > Bird7 8/1991<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird7.mp3"></source></audio>
 >[Guyane](https://goo.gl/maps/TaqCN3QCJVJb5pdN6){:target="_blank"}
 >
