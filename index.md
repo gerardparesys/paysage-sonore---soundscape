@@ -101,7 +101,7 @@ Microphone: Uni
 Microphone: Uni
 
 ---
-> ![Marquenterre - France]({% link images/img015-400x300.jpg %})  
+> [![Marquenterre - France]({% link images/img015-400x300.jpg %})](images/img015.jpg){:target="_blank"}  
 > Bird4 11-8-2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird4.mp3"></source></audio>
 > [Parc du Marquenterre - Somme - France](https://goo.gl/maps/kXN964Gf31uDJvxa6){:target="_blank"}
 >  
