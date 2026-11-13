@@ -26,7 +26,7 @@ the more music there is."
 ---
 > ![Les Écharennes]({% link images/IMG_7758-400x300.jpg %})  
 > Aqua1 6/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua1.mp3"></source></audio>
-> [Les Écharennes - Saint Nazaire le Désert - France](https://www.google.fr/maps/@44.568526,5.2760436,113m/data=%213m1%211e3)
+> [Les Écharennes - Saint Nazaire le Désert - France](https://www.google.fr/maps/@44.568526,5.2760436,113m/data=%213m1%211e3){:target="_blank"}
 >  
 > Rivière, Martinet
 > <div style="text-align: right">River, Swift</div>
@@ -37,7 +37,7 @@ Microphone: Uni
 ---
 > ![Hâble d'Ault]({% link images/IMG_5302-2-400x300.jpg %})  
 > Aqua2  23/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua2.mp3"></source></audio>
-> [Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6)
+> [Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6){:target="_blank"}
 >  
 > Mer, Galets
 > <div style="text-align: right">Sea, Pebbles</div>
@@ -48,7 +48,7 @@ Microphone:  Audio-Technica BP4025
 ---
 > ![Cayeux sur mer]({% link images/IMG_9666-2-400x300.jpg %})  
 > Aqua3   24/5/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua3.mp3"></source></audio>
-> [Cayeux sur mer - France](https://goo.gl/maps/xXXKALoynaGXCM2h6)
+> [Cayeux sur mer - France](https://goo.gl/maps/xXXKALoynaGXCM2h6){:target="_blank"}
 >  
 > Mer, Vagues, Galets
 > <div style="text-align: right">Sea,  Waves, Pebbles</div>
@@ -70,7 +70,7 @@ Microphone: Uni
 ---
 > ![Grand laurier]({% link images/IMG_3002-400x300.jpg %})  
 > Bird1 2/10/2016<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird1.mp3"></source></audio>
-> [Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2)
+> [Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2){:target="_blank"}
 >  
 > Oiseaux dans un grand laurier : Étourneau sansonnet...
 > <div style="text-align: right"> Birds in a large laurel tree : Common starling</div>
@@ -81,7 +81,7 @@ Microphone: Uni
 ---
 > ![Forêt Notre-Dame]({% link images/IMG_2177-400x300.jpg %})  
 > Bird2 10/3/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird2.mp3"></source></audio>
-> [Forêt Notre-Dame - France](https://goo.gl/maps/cvfGSmnTaD92)
+> [Forêt Notre-Dame - France](https://goo.gl/maps/cvfGSmnTaD92){:target="_blank"}
 >  
 > Troglodyte mignon
 > <div style="text-align: right"> Eurasian wren</div>
@@ -92,7 +92,7 @@ Microphone: Uni
 ---
 > ![Ochancourt - France]({% link images/20190517_054308-ModifCouleur-400x300.jpg %})  
 > Bird3 17/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird3.mp3"></source></audio>
-> [Ochancourt - France](https://maps.app.goo.gl/BCbSXntL89Bp8c5w9)
+> [Ochancourt - France](https://maps.app.goo.gl/BCbSXntL89Bp8c5w9){:target="_blank"}
 >  
 > 5h30 - Réveil des oiseaux
 > <div style="text-align: right"> 5.30 am - Awakening of the birds</div>
@@ -103,7 +103,7 @@ Microphone: Uni
 ---
 > ![Marquenterre - France]({% link images/img015-400x300.jpg %})  
 > Bird4 11-8-2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird4.mp3"></source></audio>
-> [Parc du Marquenterre - Somme - France](https://goo.gl/maps/kXN964Gf31uDJvxa6)
+> [Parc du Marquenterre - Somme - France](https://goo.gl/maps/kXN964Gf31uDJvxa6){:target="_blank"}
 >  
 > Oiseaux
 > <div style="text-align: right"> Birds</div>
@@ -114,7 +114,7 @@ Microphone: Uni
 ---
 > ![Forêt Notre-Dame - France]({% link images/IMG_2179-400x300.jpg %})  
 > Bird5 10/3/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird5.mp3"></source></audio>
-> [Forêt Notre-Dame - France](https://goo.gl/maps/cvfGSmnTaD92)
+> [Forêt Notre-Dame - France](https://goo.gl/maps/cvfGSmnTaD92){:target="_blank"}
 >  
 > Pic, Troglodyte mignon...
 > <div style="text-align: right"> Woodpecker, Eurasian wren... </div>
@@ -125,7 +125,7 @@ Microphone: Uni
 ---
 > ![Etang de Bourgneuf - France]({% link images/P1080209-400x300.jpg %})  
 > Bird6 21/05/2021<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird6.mp3"></source></audio>
-> [Etang de Bourgneuf - France](https://goo.gl/maps/2wyZPN7hdSGHKnhy8)
+> [Etang de Bourgneuf - France](https://goo.gl/maps/2wyZPN7hdSGHKnhy8){:target="_blank"}
 >  
 > Oie, Pic, Troglodyte mignon, Coucou, Grenouille, Vent...
 > <div style="text-align: right"> Goose, Woodpecker, Eurasian Wren, Cuckoo, Frog, Wind... </div>
@@ -136,7 +136,7 @@ Microphone: Uni
 --- 
 > ![Forêt Guyane]({% link images/Photo-Guyane-1991-400x265.jpg %})  
 > Bird7 8/1991<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird7.mp3"></source></audio>
->[Guyane](https://goo.gl/maps/TaqCN3QCJVJb5pdN6)
+>[Guyane](https://goo.gl/maps/TaqCN3QCJVJb5pdN6){:target="_blank"}
 >
 > Forêt, Oiseau Paypayo, Insecte, Pluie...
 > <div style="text-align: right"> Forest, Bird Screaming piha, Insect, Rain...</div>
@@ -147,7 +147,7 @@ Microphone: Sennheiser
 --- 
 > ![Le Bech]({% link images/P1130209-Modif-400x300.jpg %})  
 > Bird8 24/05/2022<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird8.mp3"></source></audio>
->[Le Bech - Corrèze - France](https://goo.gl/maps/joqY7NSCHVQf9Jzy9)
+>[Le Bech - Corrèze - France](https://goo.gl/maps/joqY7NSCHVQf9Jzy9){:target="_blank"}
 >
 > Pic, Corbeau, Pouillot véloce, Vent Arbre grince, Insecte...
 > <div style="text-align: right"> Woodpecker, Crow, Chiffchaff, Wind, Tree creaks, Insect...</div>
@@ -158,7 +158,7 @@ Microphone: AT BP4025
 ---
 > ![Alouette des champs dans le ciel]({% link images/P1250320-400x300.jpg %})  
 > Bird9 29/05/2024 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird9.mp3"></source></audio>
-> [Hâble d'Ault - Somme - France](https://maps.app.goo.gl/a84hDgAQwjg7D6jx7)
+> [Hâble d'Ault - Somme - France](https://maps.app.goo.gl/a84hDgAQwjg7D6jx7){:target="_blank"}
 >  
 > Alouette des champs dans le ciel, Mer, Vague,  Vent...
 > <div style="text-align: right"> Skylark in the sky, Sea, Wave, Wind...</div>
@@ -169,7 +169,7 @@ Microphone: AT BP4025
 ---
 > ![Nuit4]({% link images/20230728_001701-400x300.jpg %})    
 > Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB.mp3"></source></audio>
->[Frégimont Lot-et-Garonne France](https://goo.gl/maps/xbD7diQKR1TmqjJ77)
+>[Frégimont Lot-et-Garonne France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Nuit, Insecte, Vent...
 > <div style="text-align: right"> Night, Insect, Wind...</div>
