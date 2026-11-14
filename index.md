@@ -30,7 +30,7 @@ the more music there is."
 >  
 > Rivière, Martinet
 > <div style="text-align: right">River, Swift</div>
->
+>  
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -41,7 +41,7 @@ Microphone : Uni
 >  
 > Mer, Galets
 > <div style="text-align: right">Sea, Pebbles</div>
->
+>  
 > Recorder: Tascam DR-100MKII  
 Microphone :  Audio-Technica BP4025
 
