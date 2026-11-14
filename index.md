@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">17 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">18 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -63,6 +63,17 @@ Microphone :  Uni
 >  
 > Chauves-souris dans une cheminée, Visiteurs
 > <div style="text-align: right"> Bats in a chimney, Visitors</div>
+<br>
+> Recorder: Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Bernache]({% link images/IMG_5226-crop-400x300.jpg %})](images/IMG_5226-crop.jpg){:target="_blank"}  
+> Bernache  27/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bernache.mp3"></source></audio>
+> [Djurgarden park Stockholm Suède Sweden](https://www.google.fr/maps/@59.3257564,18.1227229,673m/data=%213m1%211e3){:target="_blank"}
+>  
+> Oies Bernache nonnette
+> <div style="text-align: right">  Barnacle goose</div>
 <br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
