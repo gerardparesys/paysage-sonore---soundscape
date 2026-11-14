@@ -41,7 +41,7 @@ Microphone : Uni
 >  
 > Mer, Galets
 > <div style="text-align: right">Sea, Pebbles</div>
->  
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone :  Audio-Technica BP4025
 
@@ -52,7 +52,7 @@ Microphone :  Audio-Technica BP4025
 >  
 > Mer, Vagues, Galets
 > <div style="text-align: right">Sea,  Waves, Pebbles</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone :  Uni
 
@@ -63,7 +63,7 @@ Microphone :  Uni
 >  
 > Chauves-souris dans une cheminée, Visiteurs
 > <div style="text-align: right"> Bats in a chimney, Visitors</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -74,7 +74,7 @@ Microphone : Uni
 >  
 > Oiseaux dans un grand laurier : Étourneau sansonnet...
 > <div style="text-align: right"> Birds in a large laurel tree : Common starling</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -85,7 +85,7 @@ Microphone : Uni
 >  
 > Troglodyte mignon
 > <div style="text-align: right"> Eurasian wren</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -96,7 +96,7 @@ Microphone : Uni
 >  
 > 5h30 - Réveil des oiseaux
 > <div style="text-align: right"> 5.30 am - Awakening of the birds</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -107,7 +107,7 @@ Microphone : Uni
 >  
 > Oiseaux
 > <div style="text-align: right"> Birds</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -118,7 +118,7 @@ Microphone : Uni
 >  
 > Pic, Troglodyte mignon...
 > <div style="text-align: right"> Woodpecker, Eurasian wren... </div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -129,7 +129,7 @@ Microphone : Uni
 >  
 > Oie, Pic, Troglodyte mignon, Coucou, Grenouille, Vent...
 > <div style="text-align: right"> Goose, Woodpecker, Eurasian Wren, Cuckoo, Frog, Wind... </div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -140,7 +140,7 @@ Microphone : Uni
 >
 > Forêt, Oiseau Paypayo, Insecte, Pluie...
 > <div style="text-align: right"> Forest, Bird Screaming piha, Insect, Rain...</div>
->
+<br>
 > Recorder: Sony Cassette WM-D3  
 Microphone : Sennheiser
 
@@ -151,7 +151,7 @@ Microphone : Sennheiser
 >
 > Pic, Corbeau, Pouillot véloce, Vent Arbre grince, Insecte...
 > <div style="text-align: right"> Woodpecker, Crow, Chiffchaff, Wind, Tree creaks, Insect...</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : AT BP4025
 
@@ -162,7 +162,7 @@ Microphone : AT BP4025
 >  
 > Alouette des champs dans le ciel, Mer, Vague,  Vent...
 > <div style="text-align: right"> Skylark in the sky, Sea, Wave, Wind...</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : AT BP4025
 
@@ -173,7 +173,7 @@ Microphone : AT BP4025
 >
 > 22h30, Calme, Nuit
 > <div style="text-align: right"> Night, Calm</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : Uni
 
@@ -184,7 +184,7 @@ Microphone : Uni
 >
 > Nuit, Insecte, Vent...
 > <div style="text-align: right"> Night, Insect, Wind...</div>
->
+<br>
 > Recorder: Tascam DR-100MKII  
 Microphone : AT BP4025
 
