@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">18 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">19 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -184,6 +184,17 @@ Microphone : AT BP4025
 >  
 > Prairie, Insectes, Oiseaux
 > <div style="text-align: right"> Prairie, Insects, Birds</div>
+<br>
+> Recorder: Tascam DR-100MKII  
+Microphone : AT825
+
+---
+> [![Calme2]({% link images/imm023_22AVert-400x300.jpg %})](images/imm023_22AVert.jpg){:target="_blank"}  
+> Calme2   2/7/2006 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme2.mp3"></source></audio>
+> [Béarn - Pyrénée - France](https://goo.gl/maps/7c2jXa1Qb6A6osew9 {:target="_blank"}
+>  
+> Prairie, Insectes, Cloches
+> <div style="text-align: right"> Prairie, Insects, Bells</div>
 <br>
 > Recorder: Tascam DR-100MKII  
 Microphone : AT825
