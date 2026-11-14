@@ -178,6 +178,17 @@ Microphone : AT BP4025
 Microphone : AT BP4025
 
 ---
+> [![Calme1]({% link images/IMG_2280-400x300.jpg %})](images/IMG_2280.JPG){:target="_blank"}  
+> Calme1  10/7/2008 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme1.mp3"></source></audio>
+> [Cantal - France](https://www.google.fr/maps/@44.9851529,2.333856,60699m/data=%213m1%211e3){:target="_blank"}
+>  
+> Prairie, Insectes, Oiseaux
+> <div style="text-align: right"> Prairie, Insects, Birds</div>
+<br>
+> Recorder: Tascam DR-100MKII  
+Microphone : AT825
+
+---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
 > Nuit1  23/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit1.mp3"></source></audio>
 >[Jean Petit La Réunion](https://goo.gl/maps/GNQHUnZMaxJxQWhR8){:target="_blank"}
