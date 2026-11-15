@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">20 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">21 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -31,7 +31,7 @@ the more music there is."
 > Rivière, Martinet
 > <div style="text-align: right">River, Swift</div>
 <br>
-> Recorder: Tascam DR-100MKII  
+> Recorder : Tascam DR-100MKII  
 Microphone : Uni
 
 ---
@@ -198,6 +198,18 @@ Microphone : AT825
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : AT825
+
+---
+> [![Calme3]({% link images/IMG_2263-400x300.jpg %})](images/IMG_2263-400x300.jpg){:target="_blank"}  
+> Calme3   28/7/2016 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme3.mp3"></source></audio>
+> [Signal du Chioula - Ariège - France](https://goo.gl/maps/CoAEvgYn4q12){:target="_blank"}
+>  
+> Au loin: Carrière de talc de Trimouns
+> <div style="text-align: right"> In the distance:
+Trimouns talc mine</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : BP4025
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
