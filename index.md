@@ -59,7 +59,7 @@ Microphone :  Uni
 ---
 > [![Bat]({% link images/IMG_3670-400x300-2.jpg %})](images/IMG_3670-1000x750-2.jpg){:target="_blank"}  
 > Bat1  7/8/2019<br><audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bat1.mp3"></source></audio>
-> [Abbaye de Fontenay Bourgogne France](https://goo.gl/maps/oWZ8mAorY5zbARgNA){:target="_blank"}
+> [Abbaye de Fontenay - Bourgogne - France](https://goo.gl/maps/oWZ8mAorY5zbARgNA){:target="_blank"}
 >  
 > Chauves-souris dans une cheminée, Visiteurs
 > <div style="text-align: right"> Bats in a chimney, Visitors</div>
@@ -70,7 +70,7 @@ Microphone : Uni
 ---
 > [![Bernache]({% link images/IMG_5226-crop-400x300.jpg %})](images/IMG_5226-crop.jpg){:target="_blank"}  
 > Bernache  27/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bernache.mp3"></source></audio>
-> [Djurgarden park Stockholm Suède Sweden](https://www.google.fr/maps/@59.3257564,18.1227229,673m/data=%213m1%211e3){:target="_blank"}
+> [Djurgarden park - Stockholm - Suède Sweden](https://www.google.fr/maps/@59.3257564,18.1227229,673m/data=%213m1%211e3){:target="_blank"}
 >  
 > Oies Bernache nonnette
 > <div style="text-align: right">  Barnacle goose</div>
@@ -214,7 +214,7 @@ Microphone : BP4025
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
 > Nuit1  23/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit1.mp3"></source></audio>
->[Jean Petit La Réunion](https://goo.gl/maps/GNQHUnZMaxJxQWhR8){:target="_blank"}
+>[Jean Petit - La Réunion](https://goo.gl/maps/GNQHUnZMaxJxQWhR8){:target="_blank"}
 >
 > 22h30, Calme, Nuit
 > <div style="text-align: right"> Night, Calm</div>
@@ -225,7 +225,7 @@ Microphone : Uni
 ---
 > [![Nuit2]({% link images/IMG_5517-noir-400x300.jpg %})](images/IMG_5517-noir.jpg){:target="_blank"}  
 > Nuit2   30/04/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit2.mp3"></source></audio>
->[Frégimont Lot-et-Garonne France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Nuit Insecte Vent Grenouille... 
 > <div style="text-align: right"> Night Insect Wind Frog...</div>
@@ -236,7 +236,7 @@ Microphone : AT BP4025
 ---
 > [![Nuit3]({% link images/IMG_1707-400x300.jpg %})](images/IMG_1707.JPG){:target="_blank"}  
 > Nuit3   18/1/2017 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit3.mp3"></source></audio>
->[Arcueil France](https://goo.gl/maps/9baPPgY61RQ2){:target="_blank"}
+>[Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2){:target="_blank"}
 >
 > Vent, Circulation automobile lointaine, Mobile musical
 > <div style="text-align: right"> Wind, Distant car traffic, Musical mobile</div>
@@ -247,7 +247,7 @@ Microphone : AT BP4025
 ---
 > [![Nuit4]({% link images/20230728_001701-400x300.jpg %})](images/20230728_001701.jpg){:target="_blank"}  
 > Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB.mp3"></source></audio>
->[Frégimont Lot-et-Garonne France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Nuit, Insecte, Vent...
 > <div style="text-align: right"> Night, Insect, Wind...</div>
