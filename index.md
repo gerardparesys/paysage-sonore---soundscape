@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">22 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">24 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -222,6 +222,28 @@ Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6){:target="
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : BP4025
+
+---
+> [![Calme5]({% link images/IMG_5335-400x300.jpg %})](images/IMG_5335.JPG){:target="_blank"}  
+> Calme5     1/7/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme5.mp3"></source></audio>
+> [Etang de Lers - Ariège - France](https://goo.gl/maps/fQsSaGnYurm7JHwZ7){:target="_blank"}
+>  
+> Oiseau, Insecte, Eau
+> <div style="text-align: right"> Bird, Insect, Water</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : AT BP4025
+
+---
+> [![Calme6]({% link images/IMG_5335-400x300.jpg %})](images/IMG_5335.JPG){:target="_blank"}  
+> Calme6      14/05/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme6.mp3"></source></audio>
+> [Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/c2bTP362Y2krX3po8){:target="_blank"}
+>  
+> Dans un verger de pommiers : Vent, Bébé, Insecte,  Oiseau, Avion
+> <div style="text-align: right"> In an apple orchard : Wind, Baby, Insect, Bird, Airplane</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
