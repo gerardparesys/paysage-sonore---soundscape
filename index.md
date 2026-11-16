@@ -257,6 +257,28 @@ Microphone : Uni
 Microphone : Uni
 
 ---
+> [![Cloche2]({% link images/IMG_7749-400x300.jpg %})](images/IMG_7748.JPG){:target="_blank"}  
+> Cloche2  4/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche2.mp3"></source></audio>
+> [Saint Nazaire le Désert - Drôme - France](https://maps.app.goo.gl/ZSwtSN2BD4jzuFxt6){:target="_blank"}
+>  
+> 8h - Cloches
+> <div style="text-align: right"> Bells</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Cloche3]({% link images/IMG_9800-400x300.jpg %})](images/IMG_9800.JPG){:target="_blank"}  
+> Cloche3 25/8/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche3.mp3"></source></audio>
+> [Reims - Cathédrale - France](https://maps.app.goo.gl/FPBFHkb58Fn6EBw9A){:target="_blank"}
+>  
+> Cloches
+> <div style="text-align: right"> Bells</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
 > Nuit1 23/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit1.mp3"></source></audio>
 >[Jean Petit - La Réunion](https://goo.gl/maps/GNQHUnZMaxJxQWhR8){:target="_blank"}
