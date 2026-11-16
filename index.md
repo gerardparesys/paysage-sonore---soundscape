@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">24 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">28 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -119,8 +119,8 @@ Microphone : Uni
 > Oiseaux
 > <div style="text-align: right"> Birds</div>
 <br>
-> Recorder : Tascam DR-100MKII  
-Microphone : Uni
+> Recorder : Marantz PMD670  
+Microphone : Sennheiser ME80
 
 ---
 > [![Forêt Notre-Dame - France]({% link images/IMG_2179-400x300.jpg %})](images/IMG_2179.JPG){:target="_blank"}  
@@ -185,7 +185,7 @@ Microphone : AT BP4025
 > Prairie, Insectes, Oiseaux
 > <div style="text-align: right"> Prairie, Insects, Birds</div>
 <br>
-> Recorder : Tascam DR-100MKII  
+> Recorder : Marantz PMD670  
 Microphone : AT825
 
 ---
@@ -196,7 +196,7 @@ Microphone : AT825
 > Prairie, Insectes, Cloches
 > <div style="text-align: right"> Prairie, Insects, Bells</div>
 <br>
-> Recorder : Tascam DR-100MKII  
+> Recorder : Marantz PMD670  
 Microphone : AT825
 
 ---
@@ -323,15 +323,26 @@ Microphone : Uni
 Microphone : AT825
 
 ---
-> [![Commerce1]({% link images/IMG_0054-400x300.jpg %})](images/IMG_0054.JPG){:target="_blank"}  
-> Commerce1 22/12/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Commerce1.mp3"></source></audio>
-> [Niedersteinbach - Alsace - France](https://maps.app.goo.gl/88EkWPBe4nnYk4eV6){:target="_blank"}
+> [![Equitation]({% link images/IMG_8600-400x300.jpg %})](images/IMG_8600.JPG){:target="_blank"}  
+> Equitation 25/9/2016 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation.mp3"></source></audio>
+> [Ecuries des Trois Pignons - Seine et Marne - France](https://goo.gl/maps/N8VvRU6ALup){:target="_blank"}
 >  
-> Cloches, Aire de jeux, Oiseaux, Enfants
-> <div style="text-align: right"> Bells, Playground, Birds, Kids</div>
+>Le manège
+> <div style="text-align: right">The riding hall</div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
+
+---
+> [![Equitation2]({% link images/IMG_8600-400x300.jpg %})](images/IMG_8600.JPG){:target="_blank"}  
+> Equitation2  21-6-2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation2.mp3"></source></audio>
+> [Aiguillon - Lot-et-Garonne - France](https://goo.gl/maps/UVr91AWgTmTtrVT36){:target="_blank"}
+>  
+>Cheval dans un "marcheur"
+> <div style="text-align: right">Horse walker</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : AT BP4025
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
