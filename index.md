@@ -258,7 +258,7 @@ Microphone : Uni
 
 ---
 > [![Cloche2]({% link images/IMG_7749-400x300.jpg %})](images/IMG_7748.JPG){:target="_blank"}  
-> Cloche2  4/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche2.mp3"></source></audio>
+> Cloche2 4/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche2.mp3"></source></audio>
 > [Saint Nazaire le Désert - Drôme - France](https://maps.app.goo.gl/ZSwtSN2BD4jzuFxt6){:target="_blank"}
 >  
 > 8h - Cloches
@@ -269,7 +269,29 @@ Microphone : Uni
 
 ---
 > [![Cloche3]({% link images/IMG_0477-400x300.jpg %})](images/IMG_0477.JPG){:target="_blank"}  
-> Cloche3  27/7/2017 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche3.mp3"></source></audio>
+> Cloche3 27/7/2017 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche3.mp3"></source></audio>
+> [Almodóvar del Pinar - Castilla-La Mancha - España](https://goo.gl/maps/zGU7cZBxFkM2){:target="_blank"}
+>  
+> Minuit, Espagne, Cloche
+> <div style="text-align: right"> Midnight, Spain, Bell</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Cloche4]({% link images/P1040664-400x300.jpg %})](images/P1040664.JPG){:target="_blank"}  
+> Cloche4 3/10/2020 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche4.mp3"></source></audio>
+> [Etang du Moulin à Renard - Vallée de la Bièvre - France](https://goo.gl/maps/xgktSikLtdjzY1ma8){:target="_blank"}
+>  
+> Cloche, Rouge-gorge, Voix, Héron, Pas
+> <div style="text-align: right"> Bell, Robin, Voice, Heron, Footstep</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Cloche5]({% link images/IMG_0477-400x300.jpg %})](images/IMG_0477.JPG){:target="_blank"}  
+> Cloche5 27/7/2017 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche5.mp3"></source></audio>
 > [Almodóvar del Pinar - Castilla-La Mancha - España](https://goo.gl/maps/zGU7cZBxFkM2){:target="_blank"}
 >  
 > Minuit, Espagne, Cloche
