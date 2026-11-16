@@ -335,7 +335,7 @@ Microphone : Uni
 
 ---
 > [![Equitation2]({% link images/IMG_5719-400x300.jpg %})](images/IMG_5719.JPG){:target="_blank"}  
-> Equitation2  21-6-2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation2.mp3"></source></audio>
+> Equitation2 21-6-2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation2.mp3"></source></audio>
 > [Aiguillon - Lot-et-Garonne - France](https://goo.gl/maps/UVr91AWgTmTtrVT36){:target="_blank"}
 >  
 >Cheval dans un "marcheur"
@@ -345,12 +345,23 @@ Microphone : Uni
 Microphone : AT BP4025
 
 ---
-> [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
-> Nuit1 23/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit1.mp3"></source></audio>
->[Jean Petit - La Réunion](https://goo.gl/maps/GNQHUnZMaxJxQWhR8){:target="_blank"}
+> [![Eruption]({% link images/IMG_5529-400x300.jpg %})](images/IMG_5529.JPG){:target="_blank"}  
+> Eruption 31/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Eruption.mp3"></source></audio>
+> [Piton Partage - La Réunion](https://goo.gl/maps/UVr91AWgTmTtrVT36){:target="_blank"}
+>  
+>A 1,5km de l'éruption
+> <div style="text-align: right"> 1.5km from eruption</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Fire1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
+> Fire1 14/01/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Fire1.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
-> 22h30, Calme, Nuit
-> <div style="text-align: right"> Night, Calm</div>
+> Feu de bois, un bébé dort...
+> <div style="text-align: right"> Wood fire, a baby is sleeping...</div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
