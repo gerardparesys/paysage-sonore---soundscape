@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">36 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">37 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -381,6 +381,17 @@ Microphone : AT BP4025
 > [![Frog1]({% link images/P1080113-400x300.jpg %})](images/P1080113-Modif.jpg){:target="_blank"}  
 > Frog1 21/05/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Frog1.mp3"></source></audio>
 >[Chemin de la Canarderie - Les Breviaires - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
+>
+> Une petite mare, Grenouille verte, Vent, Oiseau...
+> <div style="text-align: right"> A small pond, Green Frog, Wind, Bird... </div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Insecte1]({% link images/IMG_7718-400x300.jpg %})](images/IMG_7718.JPG){:target="_blank"}  
+> Insecte1 6/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte1.mp3"></source></audio>
+>[Saint Nazaire le Désert - Drôme - France](https://maps.app.goo.gl/WvCbChCb1rxsicrLA){:target="_blank"}
 >
 > Une petite mare, Grenouille verte, Vent, Oiseau...
 > <div style="text-align: right"> A small pond, Green Frog, Wind, Bird... </div>
