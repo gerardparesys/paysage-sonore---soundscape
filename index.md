@@ -36,7 +36,7 @@ Microphone : Uni
 
 ---
 > [![Hâble d'Ault]({% link images/IMG_5302-2-400x300.jpg %})](images/IMG_5302.JPG){:target="_blank"}  
-> Aqua2  23/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua2.mp3"></source></audio>
+> Aqua2 23/5/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua2.mp3"></source></audio>
 > [Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6){:target="_blank"}
 >  
 > Mer, Galets
@@ -47,7 +47,7 @@ Microphone :  AT BP4025
 
 ---
 > [![Cayeux sur mer]({% link images/IMG_9666-2-400x300.jpg %})](images/IMG_9666-2.jpg){:target="_blank"}  
-> Aqua3   24/5/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua3.mp3"></source></audio>
+> Aqua3 24/5/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua3.mp3"></source></audio>
 > [Cayeux sur mer - France](https://goo.gl/maps/NPCZ77g355iZJrqg9){:target="_blank"}
 >  
 > Mer, Vagues, Galets
@@ -58,7 +58,7 @@ Microphone :  Uni
 
 ---
 > [![Bat]({% link images/IMG_3670-400x300-2.jpg %})](images/IMG_3670-1000x750-2.jpg){:target="_blank"}  
-> Bat1  7/8/2019<br><audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bat1.mp3"></source></audio>
+> Bat1 7/8/2019<br><audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bat1.mp3"></source></audio>
 > [Abbaye de Fontenay - Bourgogne - France](https://goo.gl/maps/oWZ8mAorY5zbARgNA){:target="_blank"}
 >  
 > Chauves-souris dans une cheminée, Visiteurs
@@ -69,7 +69,7 @@ Microphone : Uni
 
 ---
 > [![Bernache]({% link images/IMG_5226-crop-400x300.jpg %})](images/IMG_5226-crop.jpg){:target="_blank"}  
-> Bernache  27/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bernache.mp3"></source></audio>
+> Bernache 27/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bernache.mp3"></source></audio>
 > [Djurgarden park - Stockholm - Suède Sweden](https://www.google.fr/maps/@59.3257564,18.1227229,673m/data=%213m1%211e3){:target="_blank"}
 >  
 > Oies Bernache nonnette
@@ -247,7 +247,7 @@ Microphone : Uni
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
-> Nuit1  23/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit1.mp3"></source></audio>
+> Nuit1 23/7/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit1.mp3"></source></audio>
 >[Jean Petit - La Réunion](https://goo.gl/maps/GNQHUnZMaxJxQWhR8){:target="_blank"}
 >
 > 22h30, Calme, Nuit
@@ -258,7 +258,7 @@ Microphone : Uni
 
 ---
 > [![Nuit2]({% link images/IMG_5517-noir-400x300.jpg %})](images/IMG_5517-noir.jpg){:target="_blank"}  
-> Nuit2   30/04/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit2.mp3"></source></audio>
+> Nuit2 30/04/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit2.mp3"></source></audio>
 >[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Nuit Insecte Vent Grenouille... 
@@ -269,7 +269,7 @@ Microphone : AT BP4025
 
 ---
 > [![Nuit3]({% link images/IMG_1707-400x300.jpg %})](images/IMG_1707.JPG){:target="_blank"}  
-> Nuit3   18/1/2017 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit3.mp3"></source></audio>
+> Nuit3 18/1/2017 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit3.mp3"></source></audio>
 >[Arcueil - France](https://goo.gl/maps/9baPPgY61RQ2){:target="_blank"}
 >
 > Vent, Circulation automobile lointaine, Mobile musical
@@ -292,4 +292,4 @@ Microphone : AT BP4025
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
-page mise à jour 15 11 2026 
+page mise à jour 16 11 2026 
