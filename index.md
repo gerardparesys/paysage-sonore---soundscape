@@ -248,7 +248,7 @@ Microphone : Uni
 ---
 > [![Cloche1]({% link images/IMG_9800-400x300.jpg %})](images/IMG_9800.JPG){:target="_blank"}  
 > Cloche1 25/8/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cloche1.mp3"></source></audio>
-> [Reims - Cathédrale - France](https://www.google.fr/maps/@49.2537699,4.0336315,215m/data=%213m1%211e3){:target="_blank"}
+> [Reims - Cathédrale - France](https://maps.app.goo.gl/FPBFHkb58Fn6EBw9A){:target="_blank"}
 >  
 > Cloches
 > <div style="text-align: right"> Bells</div>
