@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">28 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">29 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -334,7 +334,7 @@ Microphone : AT825
 Microphone : Uni
 
 ---
-> [![Equitation2]({% link images/IMG_8600-400x300.jpg %})](images/IMG_8600.JPG){:target="_blank"}  
+> [![Equitation2]({% link images/IMG_5719-400x300.jpg %})](images/IMG_5719.JPG){:target="_blank"}  
 > Equitation2  21-6-2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation2.mp3"></source></audio>
 > [Aiguillon - Lot-et-Garonne - France](https://goo.gl/maps/UVr91AWgTmTtrVT36){:target="_blank"}
 >  
