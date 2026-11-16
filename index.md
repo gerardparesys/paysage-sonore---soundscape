@@ -416,10 +416,21 @@ Microphone : AT825
 >[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Insecte, Coq
-> <div style="text-align: right"> Insect Rooster</div>
+> <div style="text-align: right"> Insect, Rooster</div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : AT BP4025
+
+---
+> [![Metro]({% link images/IMG_0743-400x300.jpg %})](images/IMG_0743-Modif.jpg){:target="_blank"}  
+> Metro 9/4/2007 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Metro.mp3"></source></audio>
+>[Montreal - Québec](https://goo.gl/maps/gxHofmkU4R1EvJip8){:target="_blank"}
+>
+> Métro
+> <div style="text-align: right"> Metro</div>
+<br>
+> Recorder :  Marantz PMD670  
+Microphone : AT825
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
