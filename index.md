@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">33 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">36 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -365,6 +365,17 @@ Microphone : Uni
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
+
+---
+> [![Fire2]({% link images/P1110448-400x300.jpg %})](images/P1110448.JPG){:target="_blank"}  
+> Fire2 14/12/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Fire2.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
+>
+> Feu de bois
+> <div style="text-align: right"> Wood fire</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : AT BP4025
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
