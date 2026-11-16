@@ -3,7 +3,7 @@ title: "Paysage Sonore / Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">37 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">39 Paysages sonores / Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -404,22 +404,22 @@ Microphone : Uni
 > Insecte2 7/7/2006 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte2.mp3"></source></audio>
 >[Béarn - Pyrénées - France](https://maps.app.goo.gl/DYcm1G2ft1CCP6gr7){:target="_blank"}
 >
->  Insecte, Oiseau, Voix...
-> <div style="text-align: right">  Insect, Bird, Voice... </div>
+>  Insectes
+> <div style="text-align: right">  Insects </div>
 <br>
 > Recorder :  Marantz PMD670  
 Microphone : AT825
 
 ---
-> [![Insecte3]({% link images/IMG_7718-400x300.jpg %})](images/IMG_7718.JPG){:target="_blank"}  
-> Insecte3 6/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte3.mp3"></source></audio>
->[Saint Nazaire le Désert - Drôme - France](https://maps.app.goo.gl/WvCbChCb1rxsicrLA){:target="_blank"}
+> [![Insecte3]({% link images/20210722_194108-400x300.jpg %})](images/IMG_7718.JPG20210722_194108.jpg){:target="_blank"}  
+> Insecte3 22/07/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte3.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
->  Insecte, Oiseau, Voix...
-> <div style="text-align: right">  Insect, Bird, Voice... </div>
+> Insecte, Coq
+> <div style="text-align: right"> Insect Rooster</div>
 <br>
 > Recorder : Tascam DR-100MKII  
-Microphone : Uni
+Microphone : AT BP4025
 
 ---
 > [![Nuit1]({% link images/IMG_6357-400x300.jpg %})](images/IMG_6357.JPG){:target="_blank"}  
