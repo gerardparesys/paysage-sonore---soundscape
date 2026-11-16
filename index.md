@@ -393,8 +393,30 @@ Microphone : Uni
 > Insecte1 6/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte1.mp3"></source></audio>
 >[Saint Nazaire le Désert - Drôme - France](https://maps.app.goo.gl/WvCbChCb1rxsicrLA){:target="_blank"}
 >
-> Une petite mare, Grenouille verte, Vent, Oiseau...
-> <div style="text-align: right"> A small pond, Green Frog, Wind, Bird... </div>
+>  Insecte, Oiseau, Voix...
+> <div style="text-align: right">  Insect, Bird, Voice... </div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Insecte2]({% link images/imm034_33A-400x300.jpg %})](images/imm034_33A-520x1166.jpg){:target="_blank"}  
+> Insecte2 7/7/2006 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte2.mp3"></source></audio>
+>[Béarn - Pyrénées - France](https://maps.app.goo.gl/DYcm1G2ft1CCP6gr7){:target="_blank"}
+>
+>  Insecte, Oiseau, Voix...
+> <div style="text-align: right">  Insect, Bird, Voice... </div>
+<br>
+> Recorder :  Marantz PMD670  
+Microphone : AT825
+
+---
+> [![Insecte3]({% link images/IMG_7718-400x300.jpg %})](images/IMG_7718.JPG){:target="_blank"}  
+> Insecte3 6/7/2013 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte3.mp3"></source></audio>
+>[Saint Nazaire le Désert - Drôme - France](https://maps.app.goo.gl/WvCbChCb1rxsicrLA){:target="_blank"}
+>
+>  Insecte, Oiseau, Voix...
+> <div style="text-align: right">  Insect, Bird, Voice... </div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
