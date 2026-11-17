@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">42 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">44 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -245,6 +245,28 @@ Microphone : AT BP4025
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
+
+---
+> [![Canal1]({% link images/ecl3216-400x300.jpg %})](images/ecl3216.jpg){:target="_blank"}  
+> Canal1 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal1.mp3"></source></audio>
+> [Canal de Briare - France](https://maps.app.goo.gl/DBv4Yfg5iZgkkXrk8){:target="_blank"}
+>  
+> Ecluse n°29 "Moulin de Tours"
+> <div style="text-align: right"> Lock n°29</div>
+<br>
+> Recorder : Marantz PMD670  
+Microphone : AT825
+
+---
+> [![Canal2]({% link images/ecl3216-400x300.jpg %})](images/ecl3216.jpg){:target="_blank"}  
+> Canal2 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal2.mp3"></source></audio>
+> [Canal de Briare - France](https://maps.app.goo.gl/DBv4Yfg5iZgkkXrk8){:target="_blank"}
+>  
+> Ecluse n°29 "Moulin de Tours"
+> <div style="text-align: right"> Lock n°29</div>
+<br>
+> Recorder : Marantz PMD670  
+Microphone : AT825
 
 ---
 > [![Cloche1]({% link images/IMG_9800-400x300.jpg %})](images/IMG_9800.JPG){:target="_blank"}  
