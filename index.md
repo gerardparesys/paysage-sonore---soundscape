@@ -8,7 +8,8 @@ in_menu: true
 "Plus on découvre que  
 les bruits du monde extérieur  
 sont musicaux,  
-et plus il y a de musique."  
+et plus il y a de musique."
+
 [John Cage - Pour les oiseaux](https://www.editionsdelherne.com/publication/pour-les-oiseaux/){:target="_blank"}
   
 <div style="text-align: right"> "The more we discover
@@ -335,7 +336,7 @@ Microphone : Uni
 
 ---
 > [![Equitation2]({% link images/IMG_5719-400x300.jpg %})](images/IMG_5719.JPG){:target="_blank"}  
-> Equitation2 21-6-2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation2.mp3"></source></audio>
+> Equitation2 21/6/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Equitation2.mp3"></source></audio>
 > [Aiguillon - Lot-et-Garonne - France](https://goo.gl/maps/UVr91AWgTmTtrVT36){:target="_blank"}
 >  
 >Cheval dans un "marcheur"
