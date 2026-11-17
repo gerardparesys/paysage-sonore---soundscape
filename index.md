@@ -477,6 +477,17 @@ Microphone : AT BP4025
 > Recorder : Tascam DR-100MKII  
 Microphone : AT BP4025
 
+---
+> [![Nuit4]({% link images/20230728_001701-400x300.jpg %})](images/20230728_001701.jpg){:target="_blank"}  
+> Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
+>
+> Nuit, Insecte, Vent...
+> <div style="text-align: right"> Night, Insect, Wind...</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : AT BP4025
+
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
