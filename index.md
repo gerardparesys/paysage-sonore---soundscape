@@ -1,9 +1,9 @@
 ---
-title: "Paysage Sonore / Soundscape"
+title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">42 Paysages sonores / Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">42 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
