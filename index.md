@@ -490,4 +490,4 @@ Microphone : Sennheiser
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
-page mise à jour 16 11 2026 
+page mise à jour 17 11 2026 
