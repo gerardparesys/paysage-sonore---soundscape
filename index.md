@@ -479,14 +479,14 @@ Microphone : AT BP4025
 
 ---
 > [![Nuit4]({% link images/20230728_001701-400x300.jpg %})](images/20230728_001701.jpg){:target="_blank"}  
-> Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB.mp3"></source></audio>
->[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
+> Pastoral 8/2002 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pastoral.mp3"></source></audio>
+>[Ridoux - Cantal - France](https://goo.gl/maps/zJf9rQBdEjFbWFwM9){:target="_blank"}
 >
-> Nuit, Insecte, Vent...
-> <div style="text-align: right"> Night, Insect, Wind...</div>
+> Les brebis mangent...
+> <div style="text-align: right">  Ewes are eating...</div>
 <br>
-> Recorder : Tascam DR-100MKII  
-Microphone : AT BP4025
+> Recorder : Sony Cassette WM-D3  
+Microphone : Sennheiser
 
 --- 
 <br>
