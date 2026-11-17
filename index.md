@@ -477,17 +477,6 @@ Microphone : AT BP4025
 > Recorder : Tascam DR-100MKII  
 Microphone : AT BP4025
 
----
-> [![Pastoral]({% link images/Ridoux-400x300.jpg %})](images/Ridoux.jpg){:target="_blank"}  
-> Pastoral 8/2002 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pastoral.mp3"></source></audio>
->[Ridoux - Cantal - France](https://goo.gl/maps/zJf9rQBdEjFbWFwM9){:target="_blank"}
->
-> Les brebis mangent...
-> <div style="text-align: right">  Ewes are eating...</div>
-<br>
-> Recorder : Sony Cassette WM-D3  
-Microphone : Sennheiser
-
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
