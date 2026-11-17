@@ -479,8 +479,8 @@ Microphone : AT BP4025
 
 ---
 > [![Pastoral]({% link images/Ridoux-400x300.jpg %})](images/Ridoux.jpg){:target="_blank"}  
-> Pastoral 8/2002 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pastoral.mp3"></source></audio>
->[Ridoux - Cantal - France](https://goo.gl/maps/zJf9rQBdEjFbWFwM9){:target="_blank"}
+> Nuit4 28/7/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit4-25MB.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Nuit, Insecte, Vent...
 > <div style="text-align: right"> Night, Insect, Wind...</div>
