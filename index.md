@@ -478,7 +478,7 @@ Microphone : AT BP4025
 Microphone : AT BP4025
 
 ---
-> [![Nuit4]({% link images/20230728_001701-400x300.jpg %})](images/20230728_001701.jpg){:target="_blank"}  
+> [![Pastoral]({% link images/Ridoux-400x300.jpg %})](images/Ridoux.jpg){:target="_blank"}  
 > Pastoral 8/2002 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pastoral.mp3"></source></audio>
 >[Ridoux - Cantal - France](https://goo.gl/maps/zJf9rQBdEjFbWFwM9){:target="_blank"}
 >
