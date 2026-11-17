@@ -1,6 +1,6 @@
 ---
 title: "Liens"
 order: 2
-in_menu: false
+in_menu: true
 ---
-... 
+A remplir... 
