@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">49 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">51 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -22,6 +22,28 @@ the more music there is."
 <a href="https://monoskop.org/images/0/07/For_the_Birds_John_Cage_in_Conversation_with_Daniel_Charles_1981.pdf" target="_blank">For the birds - John Cage</a>
 </div>
 <br>
+
+---
+> [![Abeille]({% link images/IMG_9654-400x300.jpg %})](images/IMG_9654.JPG){:target="_blank"}  
+> Abeille 23/5/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Abeille.mp3"></source></audio>
+> [Jardins de Valloires - France](https://maps.app.goo.gl/AsfSHqXEwsyLWDML9){:target="_blank"}
+>  
+>  Abeilles, Merle
+> <div style="text-align: right"> Bees, Blackbird</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Abeille2]({% link images/IMG_7758-400x300.jpg %})](images/IMG_7758.JPG){:target="_blank"}  
+> Abeille2 6/7/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Abeille2.mp3"></source></audio>
+> [Les Écharennes - Saint Nazaire le Désert - France](https://www.google.fr/maps/@44.568526,5.2760436,113m/data=%213m1%211e3){:target="_blank"}
+>  
+> Rivière, Martinet
+> <div style="text-align: right">River, Swift</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
 
 ---
 > [![Les Écharennes]({% link images/IMG_7758-400x300.jpg %})](images/IMG_7758.JPG){:target="_blank"}  
