@@ -537,14 +537,14 @@ Microphone : AT825
 
 ---
 > [![Pluie2]({% link images/IMG_3362-400x300.jpg %})](images/IMG_3362.JPG){:target="_blank"}  
-> Pluie2 15/7/2009 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie2.mp3"></source></audio>
->[Dalsland - Suède - Sweden](https://maps.app.goo.gl/RMMd8tqguEH5y1NV7){:target="_blank"}
+> Pluie2 20/7/2016 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie2.mp3"></source></audio>
+>[Lapège - Ariège - France](https://goo.gl/maps/QpqymNhRoLH2){:target="_blank"}
 >
-> Lac, Pluie
-> <div style="text-align: right">Lake, Rain</div>
+> Pluie, Tonnerre
+> <div style="text-align: right"> Rain, Thunder</div>
 <br>
-> Recorder :  Marantz PMD670  
-Microphone : AT825
+> Recorder :  Tascam DR-100MKII  
+Microphone : AT BP4025
 
 --- 
 <br>
