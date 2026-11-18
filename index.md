@@ -26,7 +26,7 @@ the more music there is."
 ---
 > [![Abeille]({% link images/IMG_9654-400x300.jpg %})](images/IMG_9654.JPG){:target="_blank"}  
 > Abeille 23/5/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Abeille.mp3"></source></audio>
-> [Jardins de Valloires - France](https://maps.app.goo.gl/AsfSHqXEwsyLWDML9){:target="_blank"}
+> [Jardins de Valloires - Picardie - France](https://maps.app.goo.gl/AsfSHqXEwsyLWDML9){:target="_blank"}
 >  
 >  Abeilles, Merle
 > <div style="text-align: right"> Bees, Blackbird</div>
@@ -582,6 +582,39 @@ Microphone : Uni
 ---
 > [![Pluie4]({% link images/IMG_3373-400x300.jpg %})](images/IMG_3373-Rotate.jpg){:target="_blank"}  
 > Pluie4 21/6/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie4.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://maps.app.goo.gl/EQXWU67Uf41kTgPu5){:target="_blank"}
+>
+>  Pluie sur une serre
+> <div style="text-align: right">  Rain on a greenhouse</div>
+<br>
+> Recorder :  Tascam DR-100MKII  
+Microphone : AT BP4025
+
+---
+> [![Pluie5]({% link images/IMG_3373-400x300.jpg %})](images/IMG_3373-Rotate.jpg){:target="_blank"}  
+> Pluie5 12/11/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie5.mp3"></source></audio>
+>[Arcueil - France](https://maps.app.goo.gl/95gTtHXxWBHfkfNP6){:target="_blank"}
+>
+> Pluie, Grêle, Tonnerre
+> <div style="text-align: right"> Rain, Hail, Thunder</div>
+<br>
+> Recorder :  Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Pluie6]({% link images/IMG_3373-400x300.jpg %})](images/IMG_3373-Rotate.jpg){:target="_blank"}  
+> Pluie6  6/8/2015 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie6.mp3"></source></audio>
+>[Jean Petit - La Réunion - France](https://maps.app.goo.gl/WVvjwidrKPNZHZ2fA){:target="_blank"}
+>
+> Pluie
+> <div style="text-align: right"> Rain</div>
+<br>
+> Recorder :  Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Pluie7]({% link images/IMG_3373-400x300.jpg %})](images/IMG_3373-Rotate.jpg){:target="_blank"}  
+> Pluie7 21/6/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie7.mp3"></source></audio>
 >[Frégimont - Lot-et-Garonne - France](https://maps.app.goo.gl/EQXWU67Uf41kTgPu5){:target="_blank"}
 >
 >  Pluie sur une serre
