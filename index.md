@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">54 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">56 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -622,6 +622,28 @@ Microphone : Uni
 <br>
 > Recorder :  Tascam DR-100MKII  
 Microphone : Uni
+
+---
+> [![Port1]({% link images/IMG_1440-400x300.jpg %})](images/IMG_1440.JPG){:target="_blank"}  
+> Port1 1/11/2007<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Port1.mp3"></source></audio>
+>[Erquy - Bretagne - France](https://maps.app.goo.gl/TWwtKAr8wz5VH6MU6){:target="_blank"}
+>
+> Le port
+> <div style="text-align: right"> The harbor</div>
+<br>
+> Recorder : Marantz PMD670  
+Microphone : AT825
+
+---
+> [![Port2]({% link images/IMG_1442-400x300.jpg %})](images/IMG_1442.JPG){:target="_blank"}  
+> Port2 1/11/2007<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Port2.mp3"></source></audio>
+>[Erquy - Bretagne - France](https://maps.app.goo.gl/TWwtKAr8wz5VH6MU6){:target="_blank"}
+>
+> Le port
+> <div style="text-align: right"> The harbor</div>
+<br>
+> Recorder : Marantz PMD670  
+Microphone : AT825
 
 --- 
 <br>
