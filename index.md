@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">45 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">47 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -394,7 +394,7 @@ Microphone : Uni
 
 ---
 > [![Fire1]({% link images/20210114_183153-400x300.jpg %})](images/20210114_183153.jpg){:target="_blank"}  
-> Fire1 14/01/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Fire1.mp3"></source></audio>
+> Fire1 14/1/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Fire1.mp3"></source></audio>
 >[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Feu de bois, un bébé dort...
@@ -416,7 +416,7 @@ Microphone : AT BP4025
 
 ---
 > [![Frog1]({% link images/P1080113-400x300.jpg %})](images/P1080113-Modif.jpg){:target="_blank"}  
-> Frog1 21/05/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Frog1.mp3"></source></audio>
+> Frog1 21/5/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Frog1.mp3"></source></audio>
 >[Chemin de la Canarderie - Les Breviaires - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Une petite mare, Grenouille verte, Vent, Oiseau...
@@ -449,7 +449,7 @@ Microphone : AT825
 
 ---
 > [![Insecte3]({% link images/20210722_194108-400x300.jpg %})](images/20210722_194108.jpg){:target="_blank"}  
-> Insecte3 22/07/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte3.mp3"></source></audio>
+> Insecte3 22/7/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Insecte3.mp3"></source></audio>
 >[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Insecte, Coq
@@ -482,7 +482,7 @@ Microphone : Uni
 
 ---
 > [![Nuit2]({% link images/IMG_5517-noir-400x300.jpg %})](images/IMG_5517-noir.jpg){:target="_blank"}  
-> Nuit2 30/04/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit2.mp3"></source></audio>
+> Nuit2 30/4/2023 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Nuit2.mp3"></source></audio>
 >[Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/xbD7diQKR1TmqjJ77){:target="_blank"}
 >
 > Nuit Insecte Vent Grenouille... 
@@ -523,6 +523,28 @@ Microphone : AT BP4025
 <br>
 > Recorder : Sony Cassette WM-D3  
 Microphone : Sennheiser
+
+---
+> [![Pluie1]({% link images/IMG_3362-400x300.jpg %})](images/IMG_3362.JPG){:target="_blank"}  
+> Pluie1 15/7/2009 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie1.mp3"></source></audio>
+>[Dalsland - Suède - Sweden](https://maps.app.goo.gl/RMMd8tqguEH5y1NV7){:target="_blank"}
+>
+> Lac, Pluie
+> <div style="text-align: right">Lake, Rain</div>
+<br>
+> Recorder :  Marantz PMD670  
+Microphone : AT825
+
+---
+> [![Pluie2]({% link images/IMG_3362-400x300.jpg %})](images/IMG_3362.JPG){:target="_blank"}  
+> Pluie2 15/7/2009 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie2.mp3"></source></audio>
+>[Dalsland - Suède - Sweden](https://maps.app.goo.gl/RMMd8tqguEH5y1NV7){:target="_blank"}
+>
+> Lac, Pluie
+> <div style="text-align: right">Lake, Rain</div>
+<br>
+> Recorder :  Marantz PMD670  
+Microphone : AT825
 
 --- 
 <br>
