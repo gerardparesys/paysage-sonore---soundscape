@@ -3,12 +3,12 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">44 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">45 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
 sont musicaux,  
-et plus il y a de musique."
+et plus il y a de musique."   
 [John Cage - Pour les oiseaux](https://www.editionsdelherne.com/publication/pour-les-oiseaux/){:target="_blank"}
   
 <div style="text-align: right"> "The more we discover
@@ -263,13 +263,24 @@ Microphone : AT825
 > Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine)   
 >
 > Canal2 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal2.mp3"></source></audio>
-> [Canal de Briare - France](https://maps.app.goo.gl/DBv4Yfg5iZgkkXrk8){:target="_blank"}
+> [Canal de Briare - France](https://maps.app.goo.gl/9tiddgkL8qhkwdVm8){:target="_blank"}
 >  
 > Ecluse n°27 "Montembert"
 > <div style="text-align: right"> Lock n°27</div>
 <br>
 > Recorder : Marantz PMD670  
 Microphone : AT825
+
+---
+> [![Cave1]({% link images/IMG_9800-400x300.jpg %})](images/IMG_9800.JPG){:target="_blank"}  
+> Cave1 8/4/2018 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cave1.mp3"></source></audio>
+> [Grottes de Han - Han sur Lesse - Belgium](https://goo.gl/maps/uddXQFCyaV32){:target="_blank"}
+>  
+> Visite guidée des grottes, Coup de canon
+> <div style="text-align: right"> Guided tour of the caves. Gunshot</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
 
 ---
 > [![Cloche1]({% link images/IMG_9800-400x300.jpg %})](images/IMG_9800.JPG){:target="_blank"}  
@@ -516,4 +527,4 @@ Microphone : Sennheiser
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
-page mise à jour 17 11 2026 
+page mise à jour 18 11 2026 
