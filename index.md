@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">47 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">49 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -536,8 +536,30 @@ Microphone : Sennheiser
 Microphone : AT825
 
 ---
-> [![Pluie2]({% link images/IMG_3362-400x300.jpg %})](images/IMG_3362.JPG){:target="_blank"}  
+> [![Pluie2]({% link images/IMG_7762-400x300.jpg %})](images/IMG_7762.JPG){:target="_blank"}  
 > Pluie2 20/7/2016 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie2.mp3"></source></audio>
+>[Lapège - Ariège - France](https://goo.gl/maps/QpqymNhRoLH2){:target="_blank"}
+>
+> Pluie, Tonnerre
+> <div style="text-align: right"> Rain, Thunder</div>
+<br>
+> Recorder :  Tascam DR-100MKII  
+Microphone : AT BP4025
+
+---
+> [![Pluie3]({% link images/IMG_9109-400x300.jpg %})](images/IMG_9109.JPG){:target="_blank"}  
+> Pluie3 19/5/2018 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie3.mp3"></source></audio>
+>[Forêt de Montmorency - France](https://maps.app.goo.gl/89SWfe7UscD3uFdD6){:target="_blank"}
+>
+> Pluie
+> <div style="text-align: right"> Rain</div>
+<br>
+> Recorder :  Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Pluie4]({% link images/IMG_7762-400x300.jpg %})](images/IMG_7762.JPG){:target="_blank"}  
+> Pluie4 20/7/2016 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie4.mp3"></source></audio>
 >[Lapège - Ariège - France](https://goo.gl/maps/QpqymNhRoLH2){:target="_blank"}
 >
 > Pluie, Tonnerre
