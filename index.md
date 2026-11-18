@@ -209,7 +209,7 @@ Microphone : AT825
 Trimouns talc mine</div>
 <br>
 > Recorder : Tascam DR-100MKII  
-Microphone : BP4025
+Microphone : AT BP4025
 
 ---
 > [![Calme4]({% link images/IMG_5335-400x300.jpg %})](images/IMG_5335.JPG){:target="_blank"}  
@@ -221,7 +221,7 @@ Hâble d'Ault - Somme - France](https://goo.gl/maps/xXXKALoynaGXCM2h6){:target="
 > <div style="text-align: right"> Wind, Reed, Bird, Sea, Insect, Peebles</div>
 <br>
 > Recorder : Tascam DR-100MKII  
-Microphone : BP4025
+Microphone : AT BP4025
 
 ---
 > [![Calme5]({% link images/IMG_8248-400x300.jpg %})](images/IMG_8248.JPG){:target="_blank"}  
@@ -558,12 +558,12 @@ Microphone : AT BP4025
 Microphone : Uni
 
 ---
-> [![Pluie4]({% link images/IMG_7762-400x300.jpg %})](images/IMG_7762.JPG){:target="_blank"}  
-> Pluie4 20/7/2016 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie4.mp3"></source></audio>
->[Lapège - Ariège - France](https://goo.gl/maps/QpqymNhRoLH2){:target="_blank"}
+> [![Pluie4]({% link images/IMG_3373-400x300.jpg %})](images/IMG_3373-Rotate.jpg){:target="_blank"}  
+> Pluie4 21/6/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie4.mp3"></source></audio>
+>[Frégimont - Lot-et-Garonne - France](https://maps.app.goo.gl/EQXWU67Uf41kTgPu5){:target="_blank"}
 >
-> Pluie, Tonnerre
-> <div style="text-align: right"> Rain, Thunder</div>
+>  Pluie sur une serre
+> <div style="text-align: right">  Rain on a greenhouse</div>
 <br>
 > Recorder :  Tascam DR-100MKII  
 Microphone : AT BP4025
