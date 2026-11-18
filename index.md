@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">51 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">54 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -613,15 +613,15 @@ Microphone : Uni
 Microphone : Uni
 
 ---
-> [![Pluie7]({% link images/IMG_3373-400x300.jpg %})](images/IMG_3373-Rotate.jpg){:target="_blank"}  
-> Pluie7 21/6/2019 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie7.mp3"></source></audio>
->[Frégimont - Lot-et-Garonne - France](https://maps.app.goo.gl/EQXWU67Uf41kTgPu5){:target="_blank"}
+> [![Pluie7]({% link images/IMG_1445-400x300.jpg %})](images/IMG_1445.JPG){:target="_blank"}  
+> Pluie7 26/6/2020 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Pluie7.mp3"></source></audio>
+>[Etang de la Geneste - Buc - France](https://maps.app.goo.gl/mZyQfUG8zJnhhaQ79){:target="_blank"}
 >
->  Pluie sur une serre
-> <div style="text-align: right">  Rain on a greenhouse</div>
+> Grenouille, Cheval, Voix, Vélo, Oiseau, Pluie
+> <div style="text-align: right"> Frog, Horse, Voice, Bicycle, Bird, Rain</div>
 <br>
 > Recorder :  Tascam DR-100MKII  
-Microphone : AT BP4025
+Microphone : Uni
 
 --- 
 <br>
