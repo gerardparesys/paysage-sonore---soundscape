@@ -5,6 +5,9 @@ in_menu: true
 ---
 email : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 
+<a href="https://gerardparesys.github.io/lepaysagesonoredanslalitterature/" target="_blank" >Le paysage sonore dans la littérature
+</a>
+
 <a href="https://soundcloud.com/gerard-paresys" target="_blank" >SoundCloud</a>
 
 <a href="http://gerard.paresys.free.fr" target="_blank" >Site</a>
