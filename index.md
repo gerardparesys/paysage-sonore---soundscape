@@ -113,7 +113,7 @@ Microphone : Uni
 
 ---
 > [![Marquenterre - France]({% link images/img015-400x300.jpg %})](images/img015.jpg){:target="_blank"}  
-> Bird4 11-8-2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird4.mp3"></source></audio>
+> Bird4 11/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird4.mp3"></source></audio>
 > [Parc du Marquenterre - Somme - France](https://goo.gl/maps/kXN964Gf31uDJvxa6){:target="_blank"}
 >  
 > Oiseaux
@@ -135,7 +135,7 @@ Microphone : Uni
 
 ---
 > [![Etang de Bourgneuf - France]({% link images/P1080209-400x300.jpg %})](images/P1080209.JPG){:target="_blank"}  
-> Bird6 21/05/2021<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird6.mp3"></source></audio>
+> Bird6 21/5/2021<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird6.mp3"></source></audio>
 > [Etang de Bourgneuf - France](https://goo.gl/maps/2wyZPN7hdSGHKnhy8){:target="_blank"}
 >  
 > Oie, Pic, Troglodyte mignon, Coucou, Grenouille, Vent...
@@ -157,7 +157,7 @@ Microphone : Sennheiser
 
 --- 
 > [![Le Bech]({% link images/P1130209-Modif-400x300.jpg %})](images/P1130209-Modif.jpg){:target="_blank"}  
-> Bird8 24/05/2022<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird8.mp3"></source></audio>
+> Bird8 24/5/2022<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird8.mp3"></source></audio>
 >[Le Bech - Corrèze - France](https://goo.gl/maps/joqY7NSCHVQf9Jzy9){:target="_blank"}
 >
 > Pic, Corbeau, Pouillot véloce, Vent Arbre grince, Insecte...
@@ -168,7 +168,7 @@ Microphone : AT BP4025
 
 ---
 > [![Alouette des champs dans le ciel]({% link images/P1250320-400x300.jpg %})](images/P1250320-Modif.jpg){:target="_blank"}  
-> Bird9 29/05/2024 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird9.mp3"></source></audio>
+> Bird9 29/5/2024 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Bird9.mp3"></source></audio>
 > [Hâble d'Ault - Somme - France](https://maps.app.goo.gl/a84hDgAQwjg7D6jx7){:target="_blank"}
 >  
 > Alouette des champs dans le ciel, Mer, Vague,  Vent...
@@ -236,7 +236,7 @@ Microphone : AT BP4025
 
 ---
 > [![Calme6]({% link images/20210514_154425-400x300.jpg %})](images/20210514_154425.jpg){:target="_blank"}  
-> Calme6 14/05/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme6.mp3"></source></audio>
+> Calme6 14/5/2021 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Calme6.mp3"></source></audio>
 > [Frégimont - Lot-et-Garonne - France](https://goo.gl/maps/c2bTP362Y2krX3po8){:target="_blank"}
 >  
 > Dans un verger de pommiers : Vent, Bébé, Insecte,  Oiseau, Avion
@@ -247,7 +247,7 @@ Microphone : Uni
 
 ---
 > [![Canal1]({% link images/ecl3216-400x300.jpg %})](images/ecl3216.jpg){:target="_blank"}  
-> Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine)   
+> Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
 >
 > Canal1 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal1.mp3"></source></audio>
 > [Canal de Briare - France](https://maps.app.goo.gl/DBv4Yfg5iZgkkXrk8){:target="_blank"}
@@ -260,7 +260,7 @@ Microphone : AT825
 
 ---
 > [![Canal2]({% link images/128-2801_CRW-400x300.jpg %})](images/128-2801_CRW.jpg){:target="_blank"}  
-> Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine)   
+> Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
 >
 > Canal2 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal2.mp3"></source></audio>
 > [Canal de Briare - France](https://maps.app.goo.gl/9tiddgkL8qhkwdVm8){:target="_blank"}
@@ -272,7 +272,7 @@ Microphone : AT825
 Microphone : AT825
 
 ---
-> [![Cave1]({% link images/IMG_9800-400x300.jpg %})](images/IMG_9800.JPG){:target="_blank"}  
+> [![Cave1]({% link images/IMG_2303-400x300.jpg %})](images/IMG_2303.JPG){:target="_blank"}  
 > Cave1 8/4/2018 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Cave1.mp3"></source></audio>
 > [Grottes de Han - Han sur Lesse - Belgium](https://goo.gl/maps/uddXQFCyaV32){:target="_blank"}
 >  
