@@ -637,17 +637,6 @@ Microphone : Uni
 Microphone : AT825
 
 ---
-> [![Port2]({% link images/IMG_1442-400x300.jpg %})](images/IMG_1442.JPG){:target="_blank"}  
-> Port2 1/11/2007<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Port2.mp3"></source></audio>
->[Erquy - Bretagne - France](https://maps.app.goo.gl/TWwtKAr8wz5VH6MU6){:target="_blank"}
->
-> Le port
-> <div style="text-align: right"> The harbor</div>
-<br>
-> Recorder : Marantz PMD670  
-Microphone : AT825
-
----
 > [![Square]({% link images/IMG_0080-400x300.jpg %})](images/IMG_0080.JPG){:target="_blank"}  
 > Square 20/7/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Square.mp3"></source></audio>
 >[Plaça de Campfaso - Cornellà de Llobregat - Barcelona - España](https://maps.app.goo.gl/N6aAajiAtiTqVGA18){:target="_blank"}
@@ -665,11 +654,10 @@ Microphone : Uni
 > Train2 15/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train2.mp3"></source></audio>
 >[Saint-Valery-sur-Somme - France](https://maps.app.goo.gl/W84nocEner3B2fAPA){:target="_blank"}
 >[Chemin de fer de la baie de Somme](https://fr.wikipedia.org/wiki/Chemin_de_fer_de_la_baie_de_Somme#/){:target="_blank"}
->
+> 
 > Locomotive à vapeur - Haine-Saint-Pierre 130T n°15
 
-> <div style="text-align: right"> Steam locomotive
-</div>
+> <div style="text-align: right"> Steam locomotive</div>
 <br>
 > Recorder : Marantz PMD670  
 Microphone : Sennheiser ME80
