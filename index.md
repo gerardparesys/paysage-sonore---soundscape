@@ -697,6 +697,17 @@ Microphone : AT825
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
 
+---
+> [![Vent2]({% link images/IMG_8912-400x300.jpg %})](images/IMG_8912.JPG){:target="_blank"}  
+> Vent2 5/8/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Vent2.mp3"></source></audio>
+>[Fulufjällets Nationalpark - Sweden](https://maps.app.goo.gl/TFe53pZ2rTgABG3w7){:target="_blank"}
+> 
+> Vent, Lande
+> <div style="text-align: right"> Wind, Heath</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
