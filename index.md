@@ -645,6 +645,17 @@ Microphone : AT825
 > Recorder : Marantz PMD670  
 Microphone : AT825
 
+---
+> [![Square]({% link images/IMG_0080-400x300.jpg %})](images/IMG_0080.JPG){:target="_blank"}  
+> Square 20/7/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Square.mp3"></source></audio>
+>[Plaça de Campfaso - Cornellà de Llobregat - Barcelona - España](https://maps.app.goo.gl/N6aAajiAtiTqVGA18){:target="_blank"}
+>
+>
+> <div style="text-align: right"> </div>
+<br>
+> Recorder :  Tascam DR-100MKII  
+Microphone : Uni
+
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
