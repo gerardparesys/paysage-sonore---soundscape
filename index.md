@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">62 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">63 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -700,6 +700,28 @@ Microphone : Uni
 ---
 > [![Vent2]({% link images/IMG_8912-400x300.jpg %})](images/IMG_8912.JPG){:target="_blank"}  
 > Vent2 5/8/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Vent2.mp3"></source></audio>
+>[Fulufjällets Nationalpark - Sweden](https://maps.app.goo.gl/TFe53pZ2rTgABG3w7){:target="_blank"}
+> 
+> Vent, Lande
+> <div style="text-align: right"> Wind, Heath</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Vent3]({% link images/IMG_8912-400x300.jpg %})](images/IMG_8912.JPG){:target="_blank"}  
+> Vent3 20/7/2016<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Vent3.mp3"></source></audio>
+>[Col du Pradel - Ariège - France](https://maps.app.goo.gl/FYfAH8zpiRGU6NPX7){:target="_blank"}
+> 
+>  Vent dans des sapins
+> <div style="text-align: right">  Wind in the firs</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : AT BP4025
+
+---
+> [![Vent4]({% link images/IMG_8912-400x300.jpg %})](images/IMG_8912.JPG){:target="_blank"}  
+> Vent4 5/8/2013<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Vent4.mp3"></source></audio>
 >[Fulufjällets Nationalpark - Sweden](https://maps.app.goo.gl/TFe53pZ2rTgABG3w7){:target="_blank"}
 > 
 > Vent, Lande
