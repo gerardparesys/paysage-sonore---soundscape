@@ -653,8 +653,21 @@ Microphone : AT825
 >
 > <div style="text-align: right"> </div>
 <br>
-> Recorder :  Tascam DR-100MKII  
+> Recorder : Tascam DR-100MKII  
 Microphone : Uni
+
+---
+> [![Train]({% link images/Train-400x300.jpg %})](images/ScanPhotosPapier1.jpg){:target="_blank"}  
+> Train1 15/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train1.mp3"></source></audio>
+>
+> Train2 15/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train2.mp3"></source></audio>
+>[Saint-Valery-sur-Somme - France](https://maps.app.goo.gl/W84nocEner3B2fAPA){:target="_blank"}
+>
+>
+> <div style="text-align: right"> </div>
+<br>
+> Recorder : Marantz PMD670  
+Microphone : Sennheiser ME80
 
 --- 
 <br>
