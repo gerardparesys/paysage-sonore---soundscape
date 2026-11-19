@@ -660,8 +660,7 @@ Microphone : Uni
 > <div style="text-align: right"> 
 > <br>
 > <a href="https://en.wikipedia.org/wiki/Chemin_de_fer_de_la_Baie_de_Somme" target="_blank">Somme Bay Railway</a>
-</div>
- ><br>
+> </div>
 > Recorder : Marantz PMD670  
 Microphone : Sennheiser ME80
 
