@@ -656,8 +656,11 @@ Microphone : Uni
 > 
 >[Chemin de fer de la baie de Somme](https://fr.wikipedia.org/wiki/Chemin_de_fer_de_la_baie_de_Somme#/){:target="_blank"}
 > Locomotive à vapeur - Haine-Saint-Pierre 130T n°15
-> <div style="text-align: right"> 
-[Somme Bay Railway](https://en.wikipedia.org/wiki/Chemin_de_fer_de_la_Baie_de_Somme){:target="_blank"}Steam locomotive</div>
+> 
+<div style="text-align: right"> 
+<br>
+<a href="https://en.wikipedia.org/wiki/Chemin_de_fer_de_la_Baie_de_Somme" target="_blank">Somme Bay Railway</a>
+</div>
 <br>
 > Recorder : Marantz PMD670  
 Microphone : Sennheiser ME80
@@ -672,6 +675,17 @@ Microphone : Sennheiser ME80
 <br>
 > Recorder :  Marantz PMD670  
 Microphone : AT825
+
+---
+> [![Travail1]({% link images/IMG_3593-400x300.jpg %})](images/IMG_3593.JPG){:target="_blank"}  
+> Travail1 3/7/2006<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Travail1.mp3"></source></audio>
+>[Béarn - Pyrénées - France](https://maps.app.goo.gl/VfjqRiYHcJVj6YZx6){:target="_blank"}
+> 
+> Dehors Travail, Echo
+> <div style="text-align: right">  Outdoor Handiwork, Echo</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
 
 ---
 > [![Vent1]({% link images/IMG_3593-400x300.jpg %})](images/IMG_3593.JPG){:target="_blank"}  
