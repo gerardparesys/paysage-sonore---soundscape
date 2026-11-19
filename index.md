@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">56 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">59 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -649,15 +649,15 @@ Microphone : AT825
 > [![Square]({% link images/IMG_0080-400x300.jpg %})](images/IMG_0080.JPG){:target="_blank"}  
 > Square 20/7/2017<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Square.mp3"></source></audio>
 >[Plaça de Campfaso - Cornellà de Llobregat - Barcelona - España](https://maps.app.goo.gl/N6aAajiAtiTqVGA18){:target="_blank"}
->
->
-> <div style="text-align: right"> </div>
+> 
+> Voix, Enfants, Aboiement
+> <div style="text-align: right"> Voices, Children, Barking</div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
 
 ---
-> [![Train]({% link images/Train-400x300.jpg %})](images/ScanPhotosPapier1.jpg){:target="_blank"}  
+> [![Train]({% link images/Train-400x300.jpg %})](images/Train.jpg){:target="_blank"}  
 > Train1 15/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train1.mp3"></source></audio>
 >
 > Train2 15/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train2.mp3"></source></audio>
@@ -672,4 +672,4 @@ Microphone : Sennheiser ME80
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
-page mise à jour 18 11 2026 
+page mise à jour 19 11 2026 
