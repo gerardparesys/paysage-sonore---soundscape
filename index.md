@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">63 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">67 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -747,8 +747,7 @@ Microphone : Uni
 >[Noyers sur Serein - Bourgogne - France](https://maps.app.goo.gl/sydxNyQcL7Kkbu4j7){:target="_blank"}
 > 
 > Vent, Fanion, Hirondelle de fenêtre, Voix, Choc, Cloche
-> <div style="text-align: right"> Wind, Pennant, House martin, Voices, Knock, Bell
-</div>
+> <div style="text-align: right"> Wind, Pennant, House martin, Voices, Knock, Bell</div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
