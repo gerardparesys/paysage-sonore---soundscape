@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">60 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">62 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -683,8 +683,8 @@ Microphone : AT825
 > Dehors Travail, Echo
 > <div style="text-align: right">  Outdoor Handiwork, Echo</div>
 <br>
-> Recorder : Tascam DR-100MKII  
-Microphone : Uni
+> Recorder : Marantz PMD670  
+Microphone : AT825
 
 ---
 > [![Vent1]({% link images/IMG_1429-400x300.jpg %})](images/IMG_1429.JPG){:target="_blank"}  
