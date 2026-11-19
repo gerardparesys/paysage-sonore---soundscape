@@ -653,14 +653,25 @@ Microphone : Uni
 >
 > Train2 15/8/2004<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train2.mp3"></source></audio>
 >[Saint-Valery-sur-Somme - France](https://maps.app.goo.gl/W84nocEner3B2fAPA){:target="_blank"}
+> 
 >[Chemin de fer de la baie de Somme](https://fr.wikipedia.org/wiki/Chemin_de_fer_de_la_baie_de_Somme#/){:target="_blank"}
 > 
 > Locomotive à vapeur - Haine-Saint-Pierre 130T n°15
-
 > <div style="text-align: right"> Steam locomotive</div>
 <br>
 > Recorder : Marantz PMD670  
 Microphone : Sennheiser ME80
+
+---
+> [![Train3]({% link images/IMG_3593-400x300.jpg %})](images/IMG_3593.JPG){:target="_blank"}  
+> Train3 15/7/2009<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Train3.mp3"></source></audio>
+>[Dalsland - Sweden](https://maps.app.goo.gl/q4SNH23hfXPtdMST6){:target="_blank"}
+> 
+>  Train - intérieur
+> <div style="text-align: right">  Inside the train</div>
+<br>
+> Recorder :  Marantz PMD670  
+Microphone : AT825
 
 --- 
 <br>
