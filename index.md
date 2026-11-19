@@ -730,6 +730,28 @@ Microphone : AT BP4025
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
 
+---
+> [![Vent5]({% link images/IMG_5842-400x300.jpg %})](images/IMG_5842.JPG){:target="_blank"}  
+> Vent5 24/3/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Vent5.mp3"></source></audio>
+>[Parc des Hautes-Bruyères - Villejuif - France](https://maps.app.goo.gl/Q2aQNGpon4i6CBCQA){:target="_blank"}
+> 
+> Eolienne
+> <div style="text-align: right"> Windpump</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
+---
+> [![Vent6]({% link images/IMG_3773-400x300.jpg %})](images/IMG_3773.JPG){:target="_blank"}  
+> Vent6 24/3/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Vent6.mp3"></source></audio>
+>[Parc des Hautes-Bruyères - Villejuif - France](https://maps.app.goo.gl/Q2aQNGpon4i6CBCQA){:target="_blank"}
+> 
+> Eolienne
+> <div style="text-align: right"> Windpump</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
+
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
