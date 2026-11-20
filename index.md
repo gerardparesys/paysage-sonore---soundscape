@@ -294,6 +294,7 @@ Microphone : Uni
 > [Canal de Briare - France](https://maps.app.goo.gl/9tiddgkL8qhkwdVm8){:target="_blank"}
 >  
 > Photographies de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
+<br>
 > Recorder : Marantz PMD670  
 Microphone : AT825
 
