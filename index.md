@@ -280,27 +280,20 @@ Microphone : Uni
 
 ---
 > [![Canal1]({% link images/ecl3216-400x300.jpg %})](images/ecl3216.jpg){:target="_blank"}  
-> Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
 >
 > Canal1 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal1.mp3"></source></audio>
-> [Canal de Briare - France](https://maps.app.goo.gl/DBv4Yfg5iZgkkXrk8){:target="_blank"}
->  
 > Ecluse n°29 "Moulin de Tours"
 > <div style="text-align: right"> Lock n°29</div>
 <br>
-> Recorder : Marantz PMD670  
-Microphone : AT825
-
----
 > [![Canal2]({% link images/128-2801_CRW-400x300.jpg %})](images/128-2801_CRW.jpg){:target="_blank"}  
-> Photographie de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
 >
 > Canal2 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal2.mp3"></source></audio>
-> [Canal de Briare - France](https://maps.app.goo.gl/9tiddgkL8qhkwdVm8){:target="_blank"}
->  
 > Ecluse n°27 "Montembert"
 > <div style="text-align: right"> Lock n°27</div>
 <br>
+> [Canal de Briare - France](https://maps.app.goo.gl/9tiddgkL8qhkwdVm8){:target="_blank"}
+>  
+> Photographies de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
 > Recorder : Marantz PMD670  
 Microphone : AT825
 
