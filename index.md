@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">68 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">69 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -74,6 +74,17 @@ Microphone :  AT BP4025
 >  
 > Mer, Vagues, Galets
 > <div style="text-align: right">Sea,  Waves, Pebbles</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone :  Uni
+
+---
+> [![Aqua4]({% link images/IMG_9666-2-400x300.jpg %})](images/IMG_9666-2.jpg){:target="_blank"}  
+> Aqua4 26/5/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua4.mp3"></source></audio>
+> [Etang de la Geneste - Buc - France](https://maps.app.goo.gl/ahBSkpZ7ccCZSPdXA){:target="_blank"}
+>  
+> Enfants, Vélos, Pas, Troglodyte mignon, Canard, Foulque, Poule-d'eau, Chien...
+> <div style="text-align: right">Children, Bicycle, Footsteps, Wren, Duck, Coott, Moorhen, Dog...</div>
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone :  Uni
