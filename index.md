@@ -751,6 +751,7 @@ Microphone : Uni
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
+
 ---
 > [![Ville1]({% link images/IMG_2974-400x300.jpg %})](images/IMG_2974.JPG){:target="_blank"}  
 > Ville1 20/3/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Ville1.mp3"></source></audio>
@@ -761,7 +762,8 @@ Microphone : Uni
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
+
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
-page mise à jour 19 11 2026 
+page mise à jour 20 11 2026 
