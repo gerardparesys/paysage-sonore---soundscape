@@ -79,7 +79,7 @@ Microphone :  AT BP4025
 Microphone :  Uni
 
 ---
-> [![Aqua4]({% link images/IMG_9666-2-400x300.jpg %})](images/IMG_9666-2.jpg){:target="_blank"}  
+> [![Aqua4]({% link images/IMG_2488-400x300.jpg %})](images/IMG_2488.JPG){:target="_blank"}  
 > Aqua4 26/5/2018<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Aqua4.mp3"></source></audio>
 > [Etang de la Geneste - Buc - France](https://maps.app.goo.gl/ahBSkpZ7ccCZSPdXA){:target="_blank"}
 >  
