@@ -3,7 +3,7 @@ title: "Paysage Sonore - Soundscape"
 order: 1
 in_menu: true
 ---
-<h1 style="font-size: 1.3rem;">67 Paysages sonores - Soundscapes...</h1>
+<h1 style="font-size: 1.3rem;">68 Paysages sonores - Soundscapes...</h1>
 <br>
 "Plus on découvre que  
 les bruits du monde extérieur  
@@ -751,7 +751,16 @@ Microphone : Uni
 <br>
 > Recorder : Tascam DR-100MKII  
 Microphone : Uni
-
+---
+> [![Ville1]({% link images/IMG_2974-400x300.jpg %})](images/IMG_2974.JPG){:target="_blank"}  
+> Ville1 20/3/2019<br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Ville1.mp3"></source></audio>
+>[Parc P.V. Couturier - Arcueil - France](https://maps.app.goo.gl/pvpKNyMyrQYHEyNx9){:target="_blank"}
+> 
+> Corneille, Klaxon, Mésange, Camion, Perruche, Voix, Pie
+> <div style="text-align: right"> Crow, Horn, Tit, Truck, Parakeet, Voice, Magpie</div>
+<br>
+> Recorder : Tascam DR-100MKII  
+Microphone : Uni
 --- 
 <br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... enregistrés par Gérard Paresys</h1></div>
