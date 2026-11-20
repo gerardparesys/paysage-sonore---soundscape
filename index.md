@@ -289,9 +289,7 @@ Microphone : Uni
 >
 > Canal2 26/5/2004 <br> <audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Canal2.mp3"></source></audio>
 > [Ecluse n°27 "Montembert" - Canal de Briare - France](https://maps.app.goo.gl/9tiddgkL8qhkwdVm8){:target="_blank"}
-> <div style="text-align: right"> Lock n°27</div>
-<br>
->  
+> <div style="text-align: right"> Lock n°27</div><br>
 > Photographies de [Guykayser](https://guykayser.autoportrait.com/autoportrait-collec/de-loire-en-seine){:target="_blank"}   
 <br>
 > Recorder : Marantz PMD670  
